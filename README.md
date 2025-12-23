@@ -3,6 +3,7 @@
 **A proof-of-concept demonstrating semantic metadata layers for dynamic interface generation**
 
 By @hejhdiss (Muhammed Shafin P)
+LICENSE: CC BY SA 4.0 International
 
 ---
 
