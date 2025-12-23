@@ -10,7 +10,7 @@ By @hejhdiss (Muhammed Shafin P)
 
 This is **not an operating system**. It's a focused prototype that demonstrates one specific component: **IRTA (Interface Runtime Translation Architecture)**.
 
-IRTA is the semantic metadata layer from the [NeuroShellOS concept](https://dev.to/hejhdiss/ai-native-gui-sdk-for-neuroshellos-a-semantic-interface-framework-for-language-model-control-62e) that translates intent into visual interface components. This sample exists purely to prove the core idea works—that GUIs can be built dynamically through semantic interpretation rather than hard-coded layouts.
+IRTA is the semantic metadata layer from the [AI Native GUI SDK for NeuroShellOS concept](https://dev.to/hejhdiss/ai-native-gui-sdk-for-neuroshellos-a-semantic-interface-framework-for-language-model-control-62e) that translates intent into visual interface components. This sample exists purely to prove the core idea works—that GUIs can be built dynamically through semantic interpretation rather than hard-coded layouts.
 
 ## About IRTA
 
